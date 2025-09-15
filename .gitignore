@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.ans
+
+
+*.ans
+
+
+*.trace
+trace1
+trace2
+trace3
